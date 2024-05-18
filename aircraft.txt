@@ -1,0 +1,4 @@
+10,Boeing 777,80,PIA
+20,Airbus 222,150,Air Blue
+30,Air craft 444,25,Aimrates AirLine
+50,Boing 873,250,Qatar Airline
